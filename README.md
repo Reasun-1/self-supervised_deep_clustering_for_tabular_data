@@ -1,6 +1,6 @@
 ### Self-Supervised Deep Clustering for Tabular Data
 
-Four datasets of tabular data:
+Nine datasets of tabular data:
 - Synthetic data
 - Zelnik
 - MNIST

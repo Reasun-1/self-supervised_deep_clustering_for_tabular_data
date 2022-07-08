@@ -2,9 +2,14 @@
 
 Four datasets of tabular data:
 - Synthetic data
+- Zelnik
 - MNIST
-- Pendigts
+- Pendigits
+- Optdigits
+- USPS
 - Wine
+- Mobile
+- Iris
 
 Each of the dataset trained with three self-supervised learning frameworks:
 - SimCLR

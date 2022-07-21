@@ -22,3 +22,6 @@ Several data augmentation methods applied:
 - DropOut
 - Masking
 - Upsampling (SMOTE)
+
+Extra experiment:
+- SimCLR framework + Transformer as backbone + Masking 

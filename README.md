@@ -9,7 +9,6 @@ Nine datasets of tabular data:
 - USPS
 - Wine
 - Mobile
-- Iris
 
 Each of the dataset trained with three self-supervised learning frameworks:
 - SimCLR
